@@ -2,6 +2,6 @@ Hello world
 
 First code section {}
 
-Second code section {}
+Second code section {Some code}
 
 Third code section {}
