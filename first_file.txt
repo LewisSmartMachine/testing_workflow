@@ -1,6 +1,6 @@
 Hello world
 
-First code section {}
+First code section {Some code in the first feature}
 
 Second code section {Some code}
 
